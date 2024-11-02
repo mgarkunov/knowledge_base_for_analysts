@@ -1,0 +1,8 @@
+*.bak
+*.tmp
+TMP/
+tmp/
+TEMP/
+temp/
+.idea/
+.vscode/
